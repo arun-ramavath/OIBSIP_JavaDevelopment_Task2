@@ -27,10 +27,12 @@ To develop a Java console-based Number Guessing Game where users guess a random 
 - Shows the current score and asks if the user wants to play again.
 
 ## 📸 Screenshots
-(Attach images of your console output or game here)
+<img width="814" height="483" alt="Screenshot 2025-10-26 141719" src="https://github.com/user-attachments/assets/ec9c044e-42a7-4716-89c5-0e40aec73ba9" />
+
 
 ## 🧑‍💻 Author
 *R. Arun*  
 OIB-SIP Java Development Intern  
+
 
 ---
